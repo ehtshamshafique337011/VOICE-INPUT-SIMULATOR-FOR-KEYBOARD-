@@ -21,4 +21,4 @@ Follow these steps to run the project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/voice-input-simulator.git
+   git clone https://github.com/Muhammad Ehtsham/voice-input-simulator.git
